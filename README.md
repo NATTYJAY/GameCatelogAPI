@@ -4,7 +4,10 @@
 
 This is an API for a game catalog. The game has players who play it very frequently. The games come in versions so players can own a game in one or more versions of the game.
 
-This API is built with LARAVEL PHP FRAMEWORK
+This testable API is built with LARAVEL PHP FRAMEWORK.
+
+The design pattern used is SERVICE and REPOSITORY Design pattern.
+
 
 ## HOW TO DEPLOY THE APP LOCALLY
 
